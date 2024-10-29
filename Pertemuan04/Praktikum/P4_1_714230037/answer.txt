@@ -1,0 +1,22 @@
+[Bagian 1]
+14:
+Projek tidak bisa dibuild karena properti "myType" diberi akses modifier protected,
+yang berarti hanya bisa dipakai didalam class itu sendiri atau class yang mewarisi class itu
+
+19:
+Output diterminal kosong karena properti "MyType" belum di inisialisasi (diberi value)
+
+24:
+Sekarang properti "MyType" sudah di inisialisasi dengan value "DVD"
+
+[Bagian 2]
+8:
+properti inheritance yang didapat dari kelas Product belum di inisialisasi
+
+12:
+kalli ini tipe dan judul sudah di inisialisasi menggunakan fungsi base()
+fungsi itu menginisialisasi parent class dari objek yang diwarisi
+
+19:
+Construktor pada class DVD hanya memberikan 2 parameter yaitu title, dan duration
+dan properti mytype diset manual dengan nilai "DVD"
