@@ -1,14 +1,13 @@
 # Output Aplikasi
 
-1. Halaman utama
-
+### Halaman utama
 ![Halaman Utama](./screenshoot/main.png)
 
-2. Pendaftaran berhasil
+### Pendaftaran berhasil
 ![Pendaftaran Berhasil](./screenshoot/komplit.png)
 
-3. Tidak memilih kelas
+### Tidak memilih kelas
 ![warning1](./screenshoot/warning1.png)
 
-4. Input tidak lengkap
+### Input tidak lengkap
 ![warning2](./screenshoot/warning2.png)
